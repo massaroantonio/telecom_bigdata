@@ -1,0 +1,148 @@
+{
+  "count": 7,
+  "items": [
+    {
+      "language": "it",
+      "created": "2015-03-25T13:56:30+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.454102,
+          41.913337
+        ]
+      },
+      "timestamp": "1427291790",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Airbus",
+        "http://it.dbpedia.org/resource/Germanwings",
+        "http://it.dbpedia.org/resource/Incidente"
+      ],
+      "user": "22124d5229"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-13T21:45:35+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.423061,
+          41.907296
+        ]
+      },
+      "timestamp": "1426283135",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Pasto",
+        "http://it.dbpedia.org/resource/Casa",
+        "http://it.dbpedia.org/resource/Incidente",
+        "http://it.dbpedia.org/resource/Per%C3%B9",
+        "http://it.dbpedia.org/resource/Strada",
+        "http://it.dbpedia.org/resource/Forte_Boccea"
+      ],
+      "user": "732008fb79"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-18T17:54:52+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.519102,
+          41.972646
+        ]
+      },
+      "timestamp": "1426701292",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Incidente",
+        "http://it.dbpedia.org/resource/Automobile",
+        "http://it.dbpedia.org/resource/Speranza"
+      ],
+      "user": "599c9d7513"
+    },
+    {
+      "language": "it",
+      "created": "2015-02-18T01:44:39+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.563468,
+          41.853231
+        ]
+      },
+      "timestamp": "1424223879",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Casa",
+        "http://it.dbpedia.org/resource/Incidente"
+      ],
+      "user": "e88e95088a"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-26T10:37:38+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65409,
+          41.672538
+        ]
+      },
+      "timestamp": "1430044658",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Malattia",
+        "http://it.dbpedia.org/resource/Malattia",
+        "http://it.dbpedia.org/resource/Fisica",
+        "http://it.dbpedia.org/resource/Ferita",
+        "http://it.dbpedia.org/resource/Incidente"
+      ],
+      "user": "9e42be2820"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-02T11:32:08+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.572557,
+          41.85883
+        ]
+      },
+      "timestamp": "1420198328",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Ubriachezza",
+        "http://it.dbpedia.org/resource/Incidente",
+        "http://it.dbpedia.org/resource/Via_Nazionale_(Roma)"
+      ],
+      "user": "b4f0baedf8"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-23T06:40:29+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.477996,
+          41.870923
+        ]
+      },
+      "timestamp": "1421995229",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Eterosessualit%C3%A0",
+        "http://it.dbpedia.org/resource/Genitore",
+        "http://it.dbpedia.org/resource/Calabria",
+        "http://it.dbpedia.org/resource/Incidente",
+        "http://it.dbpedia.org/resource/Morte",
+        "http://it.dbpedia.org/resource/Figlio",
+        "http://it.dbpedia.org/resource/Denaro",
+        "http://it.dbpedia.org/resource/Assicurazione"
+      ],
+      "user": "187dcee082"
+    }
+  ],
+  "datagem-version": "45be3a6b7310e59ad80e3221390c74cf3f7d7d55"
+}
