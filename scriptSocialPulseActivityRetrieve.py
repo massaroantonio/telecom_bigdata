@@ -7,7 +7,7 @@ URL_BASE="https://api.dandelion.eu/datagems/v2/SpazioDati/social-pulse-2015-roma
 LIMIT=0
 OFFSET=0
 monthRange=[3,4]
-dayRange=[1,1] #one entry per month
+dayRange=[31,30] #one entry per month
 hoursRange=range(24) #one entry per hour
 #open output file, if existing delete
 nameFileOut='twitterVolume.csv';
