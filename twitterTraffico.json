@@ -1,147 +1,894 @@
 {
-  "count": 7,
+  "count": 46,
   "items": [
     {
       "language": "it",
-      "created": "2015-03-25T13:56:30+00:00",
+      "created": "2015-02-16T07:04:23+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.454102,
-          41.913337
+          12.514215,
+          41.891338
         ]
       },
-      "timestamp": "1427291790",
+      "timestamp": "1424070263",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Airbus",
-        "http://it.dbpedia.org/resource/Germanwings",
-        "http://it.dbpedia.org/resource/Incidente"
+        "http://it.dbpedia.org/resource/Ferrovia",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Marmota",
+        "http://it.dbpedia.org/resource/Cioccolato"
       ],
-      "user": "22124d5229"
+      "user": "7e9f81b4e1"
     },
     {
       "language": "it",
-      "created": "2015-03-13T21:45:35+00:00",
+      "created": "2015-02-20T16:32:20+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.423061,
-          41.907296
+          12.457243,
+          41.906014
         ]
       },
-      "timestamp": "1426283135",
+      "timestamp": "1424449940",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Pasto",
-        "http://it.dbpedia.org/resource/Casa",
-        "http://it.dbpedia.org/resource/Incidente",
-        "http://it.dbpedia.org/resource/Per%C3%B9",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Prati_(rione_di_Roma)",
+        "http://it.dbpedia.org/resource/Roma"
+      ],
+      "user": "b72b344588"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-30T19:20:54+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506478,
+          41.887716
+        ]
+      },
+      "timestamp": "1427743254",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Strada"
+      ],
+      "user": "713a893880"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-23T15:32:17+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514598,
+          41.792957
+        ]
+      },
+      "timestamp": "1429803137",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Autostrada_A90"
+      ],
+      "user": "da527eb70e"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-05T07:53:14+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.512447,
+          41.882095
+        ]
+      },
+      "timestamp": "1425541994",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Pioggia",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Mondo"
+      ],
+      "user": "1c4e6b8337"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-05T08:43:09+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.195776,
+          42.08482
+        ]
+      },
+      "timestamp": "1425544989",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Polizia_municipale",
+        "http://it.dbpedia.org/resource/Bar_(pubblico_esercizio)",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "ca585e94f0"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-05T08:07:53+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54098,
+          41.941658
+        ]
+      },
+      "timestamp": "1425542873",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Universit%C3%A0",
+        "http://it.dbpedia.org/resource/Autobus",
+        "http://it.dbpedia.org/resource/Enrico_Fermi",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "bd8cf932c1"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-17T11:32:30+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54616,
+          41.964295
+        ]
+      },
+      "timestamp": "1421494350",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
         "http://it.dbpedia.org/resource/Strada",
-        "http://it.dbpedia.org/resource/Forte_Boccea"
+        "http://it.dbpedia.org/resource/Traffico"
       ],
-      "user": "732008fb79"
+      "user": "01d354c0f0"
     },
     {
       "language": "it",
-      "created": "2015-03-18T17:54:52+00:00",
+      "created": "2015-04-06T09:03:57+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.519102,
-          41.972646
+          12.524928,
+          41.929582
         ]
       },
-      "timestamp": "1426701292",
+      "timestamp": "1428311037",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Incidente",
-        "http://it.dbpedia.org/resource/Automobile",
-        "http://it.dbpedia.org/resource/Speranza"
+        "http://it.dbpedia.org/resource/Luned%C3%AC_dell'Angelo",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Luned%C3%AC_dell'Angelo",
+        "http://it.dbpedia.org/resource/Pasqua"
       ],
-      "user": "599c9d7513"
+      "user": "38923d4ae7"
     },
     {
       "language": "it",
-      "created": "2015-02-18T01:44:39+00:00",
+      "created": "2015-04-25T10:12:19+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.563468,
-          41.853231
+          12.50745,
+          41.886713
         ]
       },
-      "timestamp": "1424223879",
+      "timestamp": "1429956739",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Casa",
-        "http://it.dbpedia.org/resource/Incidente"
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Carreggiata",
+        "http://it.dbpedia.org/resource/Autostrada_A90",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Strada_statale_7_Via_Appia",
+        "http://it.dbpedia.org/resource/Strada_statale_148_Pontina"
       ],
-      "user": "e88e95088a"
+      "user": "8a8cbf9d70"
     },
     {
       "language": "it",
-      "created": "2015-04-26T10:37:38+00:00",
+      "created": "2015-03-31T07:20:26+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.65409,
-          41.672538
+          12.50903,
+          41.85855
         ]
       },
-      "timestamp": "1430044658",
+      "timestamp": "1427786426",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Malattia",
-        "http://it.dbpedia.org/resource/Malattia",
-        "http://it.dbpedia.org/resource/Fisica",
-        "http://it.dbpedia.org/resource/Ferita",
-        "http://it.dbpedia.org/resource/Incidente"
+        "http://it.dbpedia.org/resource/Tribunale_amministrativo_regionale",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Parcheggio",
+        "http://it.dbpedia.org/resource/Inquinamento",
+        "http://it.dbpedia.org/resource/Traffico"
       ],
-      "user": "9e42be2820"
+      "user": "a762780a9b"
     },
     {
       "language": "it",
-      "created": "2015-01-02T11:32:08+00:00",
+      "created": "2015-01-08T16:00:15+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.572557,
-          41.85883
+          12.481478,
+          41.801563
         ]
       },
-      "timestamp": "1420198328",
+      "timestamp": "1420732815",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Ubriachezza",
-        "http://it.dbpedia.org/resource/Incidente",
-        "http://it.dbpedia.org/resource/Via_Nazionale_(Roma)"
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Capitale_(citt%C3%A0)"
       ],
-      "user": "b4f0baedf8"
+      "user": "c58196f680"
     },
     {
       "language": "it",
-      "created": "2015-01-23T06:40:29+00:00",
+      "created": "2015-04-28T06:44:10+00:00",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.477996,
-          41.870923
+          12.617024,
+          41.889008
         ]
       },
-      "timestamp": "1421995229",
+      "timestamp": "1430203450",
       "modified": "2015-05-25T14:09:27.282Z",
       "entities": [
-        "http://it.dbpedia.org/resource/Eterosessualit%C3%A0",
-        "http://it.dbpedia.org/resource/Genitore",
-        "http://it.dbpedia.org/resource/Calabria",
-        "http://it.dbpedia.org/resource/Incidente",
-        "http://it.dbpedia.org/resource/Morte",
-        "http://it.dbpedia.org/resource/Figlio",
-        "http://it.dbpedia.org/resource/Denaro",
-        "http://it.dbpedia.org/resource/Assicurazione"
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Sacro_GRA",
+        "http://it.dbpedia.org/resource/Pioggia"
       ],
-      "user": "187dcee082"
+      "user": "8050cf82da"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-03T08:02:13+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25,
+          41.75
+        ]
+      },
+      "timestamp": "1425369733",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Temo",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Primavera"
+      ],
+      "user": "c47433b5ad"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-28T09:26:16+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599577,
+          41.799396
+        ]
+      },
+      "timestamp": "1427534776",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Mattino",
+        "http://it.dbpedia.org/resource/Motore_a_vapore",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "23a0332d0a"
+    },
+    {
+      "language": "it",
+      "created": "2014-12-31T11:03:25+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.703775,
+          41.926167
+        ]
+      },
+      "timestamp": "1420023805",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Pedaggio",
+        "http://it.dbpedia.org/resource/Autostrada_A24"
+      ],
+      "user": "83214cbb4d"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-22T18:32:29+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.449315,
+          41.910711
+        ]
+      },
+      "timestamp": "1421951549",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma_Capitale"
+      ],
+      "user": "26b89c5e1b"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-17T20:26:09+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515156,
+          41.891682
+        ]
+      },
+      "timestamp": "1429302369",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/ATAC",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "2eec636d53"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-23T07:14:55+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46925,
+          41.908983
+        ]
+      },
+      "timestamp": "1429773295",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Roma_antica",
+        "http://it.dbpedia.org/resource/Celestis",
+        "http://it.dbpedia.org/resource/Semaforo",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma_antica"
+      ],
+      "user": "174cbe6482"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-25T08:05:43+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.532426,
+          41.908323
+        ]
+      },
+      "timestamp": "1427270743",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Via_Tiburtina_Valeria",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma_antica",
+        "http://it.dbpedia.org/resource/Pioggia"
+      ],
+      "user": "c4f2c7771b"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-30T07:17:01+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.382827,
+          41.949794
+        ]
+      },
+      "timestamp": "1427699821",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Raccordo_autostradale",
+        "http://it.dbpedia.org/resource/Autostrada_A90",
+        "http://it.dbpedia.org/resource/Autostrada_A90",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "cba52c868b"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-29T14:59:31+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.468691,
+          41.771068
+        ]
+      },
+      "timestamp": "1430319571",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Strada",
+        "http://it.dbpedia.org/resource/Corsia_di_marcia",
+        "http://it.dbpedia.org/resource/Autobus",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "94e5c55b60"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-26T19:28:46+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.695282,
+          41.764205
+        ]
+      },
+      "timestamp": "1427398126",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Signoria_cittadina",
+        "http://it.dbpedia.org/resource/Strada",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "c80bb0e594"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-31T06:49:10+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42491,
+          41.924238
+        ]
+      },
+      "timestamp": "1427784550",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma_antica"
+      ],
+      "user": "174cbe6482"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-10T08:15:31+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.614623,
+          41.916639
+        ]
+      },
+      "timestamp": "1425975331",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Lago_di_Garda",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Incidente_stradale",
+        "http://it.dbpedia.org/resource/Strada_statale_2_Via_Cassia"
+      ],
+      "user": "eab6afcf3d"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-31T16:53:10+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.480118,
+          41.877878
+        ]
+      },
+      "timestamp": "1427820790",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Roma_antica",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "294e55bc1c"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-13T07:26:39+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.537224,
+          41.911788
+        ]
+      },
+      "timestamp": "1421133999",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/ATAC"
+      ],
+      "user": "1d32601009"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-17T06:58:50+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47156,
+          41.885973
+        ]
+      },
+      "timestamp": "1429253930",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Mattino"
+      ],
+      "user": "6fa31d55a8"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-16T07:45:59+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.61283,
+          41.936595
+        ]
+      },
+      "timestamp": "1429170359",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Via_Tiburtina_Valeria",
+        "http://it.dbpedia.org/resource/Strada",
+        "http://it.dbpedia.org/resource/Castel_Madama",
+        "http://it.dbpedia.org/resource/Tivoli",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Autobus"
+      ],
+      "user": "c6d421346e"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-17T08:57:02+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502165,
+          41.891746
+        ]
+      },
+      "timestamp": "1421485022",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Strada",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Bangladesh",
+        "http://it.dbpedia.org/resource/Kebab"
+      ],
+      "user": "06f581b410"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-09T08:00:49+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42874,
+          41.850651
+        ]
+      },
+      "timestamp": "1428566449",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Popoli_nomadi",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Storia_romana"
+      ],
+      "user": "4765ea1792"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-05T08:28:11+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.444214,
+          41.802138
+        ]
+      },
+      "timestamp": "1425544091",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Autostrada_A90"
+      ],
+      "user": "aa147e44b1"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-09T13:24:15+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.440091,
+          41.896745
+        ]
+      },
+      "timestamp": "1428585855",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma_antica"
+      ],
+      "user": "ace0a9b5f0"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-16T09:29:00+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48217,
+          41.932086
+        ]
+      },
+      "timestamp": "1426498140",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Polizia_municipale",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Lungotevere"
+      ],
+      "user": "427aa3817b"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-16T08:16:35+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47642,
+          41.986246
+        ]
+      },
+      "timestamp": "1426493795",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Raccordo_autostradale",
+        "http://it.dbpedia.org/resource/Autostrada_A90",
+        "http://it.dbpedia.org/resource/Autostrada_A90",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "cba52c868b"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-12T09:38:27+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.608582,
+          42.139407
+        ]
+      },
+      "timestamp": "1426153107",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Tempo",
+        "http://it.dbpedia.org/resource/Danza"
+      ],
+      "user": "95d4ec4be4"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-16T15:43:24+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.474056,
+          41.85254
+        ]
+      },
+      "timestamp": "1426520604",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Pioggia",
+        "http://it.dbpedia.org/resource/Giubileo_universale_della_Chiesa_Cattolica",
+        "http://it.dbpedia.org/resource/La_morte_civile"
+      ],
+      "user": "8020f40595"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-15T12:54:52+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.622824,
+          41.470916
+        ]
+      },
+      "timestamp": "1426424092",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Giubileo_universale_della_Chiesa_Cattolica",
+        "http://it.dbpedia.org/resource/Roma",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Commercio"
+      ],
+      "user": "ba5d9a41ba"
+    },
+    {
+      "language": "it",
+      "created": "2015-03-04T22:30:07+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.688689,
+          41.700971
+        ]
+      },
+      "timestamp": "1425508207",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Pioggia",
+        "http://it.dbpedia.org/resource/Strada",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Peccato"
+      ],
+      "user": "dc31fa8faa"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-29T17:22:00+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.471805,
+          41.940946
+        ]
+      },
+      "timestamp": "1422552120",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Tangenziale"
+      ],
+      "user": "08f8563d28"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-27T17:17:50+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485605,
+          41.811607
+        ]
+      },
+      "timestamp": "1430155070",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Pioggia",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/EUR"
+      ],
+      "user": "bd98c8c7c1"
+    },
+    {
+      "language": "it",
+      "created": "2015-01-07T12:02:16+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502313,
+          41.900616
+        ]
+      },
+      "timestamp": "1420632136",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Roma_antica",
+        "http://it.dbpedia.org/resource/Roma_antica",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma"
+      ],
+      "user": "ae06c98d1a"
+    },
+    {
+      "language": "it",
+      "created": "2015-02-26T18:16:11+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.344248,
+          41.897687
+        ]
+      },
+      "timestamp": "1424974571",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Roma_(citt%C3%A0_antica)"
+      ],
+      "user": "174cbe6482"
+    },
+    {
+      "language": "it",
+      "created": "2015-04-14T09:15:03+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.520695,
+          41.909752
+        ]
+      },
+      "timestamp": "1429002903",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Formazione"
+      ],
+      "user": "8eee62beb1"
+    },
+    {
+      "language": "it",
+      "created": "2015-02-13T08:01:19+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.474389,
+          41.891629
+        ]
+      },
+      "timestamp": "1423814479",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Dio",
+        "http://it.dbpedia.org/resource/Traffico",
+        "http://it.dbpedia.org/resource/Pioggia",
+        "http://it.dbpedia.org/resource/Semaforo"
+      ],
+      "user": "ee304e3366"
+    },
+    {
+      "language": "it",
+      "created": "2015-02-28T12:00:17+00:00",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.518567,
+          41.901885
+        ]
+      },
+      "timestamp": "1425124817",
+      "modified": "2015-05-25T14:09:27.282Z",
+      "entities": [
+        "http://it.dbpedia.org/resource/Shopping",
+        "http://it.dbpedia.org/resource/Roma_(citt%C3%A0_antica)",
+        "http://it.dbpedia.org/resource/Traffico"
+      ],
+      "user": "45ba729f3f"
     }
   ],
   "datagem-version": "45be3a6b7310e59ad80e3221390c74cf3f7d7d55"
