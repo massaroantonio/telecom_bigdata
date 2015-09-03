@@ -191,7 +191,6 @@ def get_composed_feat_h(h):
 	Q=getfeat()
 	X=Q[0][:,:-1].T
 	X=aggrega_su_ore(X,h)
-	print X.shape
 	names=Q[2][:-1]
 	couples=[list(y) for y in combo(list(range(len(X))), 2)]
 	triples=[list(y) for y in combo(list(range(len(X))), 3)]
@@ -214,10 +213,12 @@ def get_composed_feat_h(h):
 	    X=np.vstack([X,f_p,f_p_100,f_p_20,f_p_10,f_p_5])
 	    names+=[names[i]+'_q',names[i]+'_q100',names[i]+'_q20',names[i]+'_q10',names[i]+'_q5']
 
-	#weather=Q[0][:,-2]
-	#weather=np.array([weather[i] for i in range(len(weather)) if i%2==0 and i<len(weather)-2])
-	#X=np.vstack((X,weather))
-	#names.append('weather')
+	weather=Q[0][:,-1]
+	weather_h=np.array([weather[i] for i in range(len(weather)) if i%h==0])
+	print len(weather_h[:-1])
+	print len(X[-1])
+	X=np.vstack((X,weather_h[:-1]))
+	names.append('weather')
 	
 	start=datetime(2015,3,1,0)
 	timestep=3600
