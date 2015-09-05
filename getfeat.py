@@ -132,7 +132,7 @@ def getfeat():
 	Weather=np.array([Weather[i] if Weather[i]!=k else Weather[i+1] for i in range(len(Weather)-1)])
 
 
-	X=np.zeros((len(telco[0]),11))
+	X=np.zeros((len(telco[0]),12))
 	for i in range(4):
 	    for j in range(len(telco[0])):
 	        X[j,i]=telco[i,j]
@@ -144,11 +144,19 @@ def getfeat():
 	    X[j,8]=traffic_unique_40[j]
 	    X[j,9]=traffic_unique_50[j]
 
+	twtt=[]
+	tw=open('/home/amassaro/bigdata_telecom_15/repository/telecom_bigdata/features_dataset/twitterVolume.csv','r')
+	for l in tw:
+		twtt.append(int(l.split(',')[1]))
+	twtt=np.array(twtt)
+	for j in range(len(twtt)):
+		X[j,10]=twtt[j]
+
 	for j in range(len(Weather)):
-	    X[j,10]=Weather[j]
-	    
+	    X[j,11]=Weather[j]
+     
 	Y=accidents
-	names=['callin','callout','smsin','smsout','traffic','traffic_unique','traffic_unique_10','traffic_unique_20','traffic_unique_40','traffic_unique_50','weather']
+	names=['callin','callout','smsin','smsout','traffic','traffic_unique','traffic_unique_10','traffic_unique_20','traffic_unique_40','traffic_unique_50','twitter','weather']
 	return [X,Y,names]
 
 
